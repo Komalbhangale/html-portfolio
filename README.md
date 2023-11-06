@@ -1,2 +1,2 @@
 # html-portfolio
-basic project on html witch show case the my knowledge about html tangs and hyperlink.
+basic project on html witch show case the my knowledge about html tag and hyperlink.
